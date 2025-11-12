@@ -3,7 +3,6 @@ body {
   display: flex;
   flex-direction: column;
   background: linear-gradient(to right, #0d0c0c, #343434, #575757);
-  min-height: 100vh;
   margin: 0;
   color: white;
   font-family: Arial, sans-serif;
