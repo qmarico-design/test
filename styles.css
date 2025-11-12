@@ -29,6 +29,8 @@ body.fade-out {
   align-items: center;
   padding: 15px 40px;
   background: linear-gradient(to right, #111, #333);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   position: sticky;
   top: 0;
